@@ -67,3 +67,6 @@ Wikitude SDK의 JavaScript API는 HTML과 Javascript에 기반한 증강 현실�
 - 반려동물이 아닌 다른 데이터를 학습시킨 모델을 애플리케이션의 기능과 연결하여 
 다양한 활용이 가능하다. 가구 데이터를 통해 가구를 AR로 배치해보거나 사람의 옷 
 데이터를 통해 옷을 AR로 입어볼 수 있다.
+
+### resource
+- 딥러닝 모델 : https://drive.google.com/drive/folders/1v7UKcqk_kVqFB_gc_KR_VT4WiF3P0zlg?usp=sharing
